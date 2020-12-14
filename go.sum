@@ -1,0 +1,5 @@
+github.com/slon/thrift-versioning v1.0.0 h1:7euRSQKFrKTbIDwYySDmJoQyIhlw9IwNZKt7spQNO/s=
+github.com/slon/thrift-versioning v1.0.0/go.mod h1:A6C4j135PWdGav2o7Q82EZylKwTkwQ9MvchrgHYCpSU=
+github.com/slon/thrift-versioning v1.0.1-0.20201214145218-e0f8636552d1 h1:2PiQe4N3NBCOx6B8LeTN9uhIs7ZumbgqFYvsuPKInBk=
+github.com/slon/thrift-versioning/lib/go/thrift/v2 v2.0.0-20201214145218-e0f8636552d1 h1:7J/qyCfLqBk/Q9GXpUWmVtQpjTQosPPBDJnxWTR4jnI=
+github.com/slon/thrift-versioning/lib/go/thrift/v2 v2.0.0-20201214145218-e0f8636552d1/go.mod h1:I5EWkJywFqT61206jRJwliS8B8Qq1cZzFliE32dr+64=
